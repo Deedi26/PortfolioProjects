@@ -11,7 +11,7 @@ Welcome to my GitHub repository showcasing my portfolio projects as a Data Analy
    - Description: This SQL script demonstrates my proficiency in data exploration using SQL. It focuses on analyzing COVID-19 related datasets to derive insights and inform decision-making processes.
    - Key Features: Data Cleaning, Aggregation, Analysis, Documentation.
    
-2.
+2. 
 
 **Purpose:**
 
